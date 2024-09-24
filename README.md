@@ -30,6 +30,8 @@
   - PagerDuty
 - Feature Flagging
   - Optimizely
+- Session Management
+  - Redis
 - Battle Arena Project
   - three.js
   - dashboard (d3.js)
